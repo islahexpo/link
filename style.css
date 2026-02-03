@@ -23,7 +23,7 @@ body {
 }
 
 p {
-  color: rgb(255, 255, 255);
+  color: rgb(117, 75, 12);
 }
 
 .bg-text-animation {
@@ -54,7 +54,7 @@ a {
 
 .sosmed i {
   font-size: 1.5rem;
-  color: #ffffff;
+  color: #5f2a12;
 }
 
 .sosmed i:hover {
@@ -86,7 +86,7 @@ ul.links li:not(:last-child) {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(226, 151, 38);
   gap: 0.2rem;
   padding: 0.2rem;
   border-radius: 40px;
@@ -98,7 +98,7 @@ ul.links li:not(:last-child) {
 }
 
 .links .link-icon {
-  background-color: #12993b;
+  background-color: #38b412;
   padding: 0.7rem;
   padding-top: 0.7rem;
   border-radius: 50px;
