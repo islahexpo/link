@@ -23,7 +23,7 @@ body {
 }
 
 p {
-  color: #9b894dff;
+  color: rgb(255, 255, 255);
 }
 
 .bg-text-animation {
@@ -54,7 +54,7 @@ a {
 
 .sosmed i {
   font-size: 1.5rem;
-  color: #8d1717;
+  color: #ffffff;
 }
 
 .sosmed i:hover {
@@ -86,7 +86,7 @@ ul.links li:not(:last-child) {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgb(241, 166, 95);
+  background-color: rgb(255, 255, 255);
   gap: 0.2rem;
   padding: 0.2rem;
   border-radius: 40px;
@@ -113,7 +113,7 @@ ul.links li:not(:last-child) {
 
 .links .link-text {
   text-align: center;
-  color: #ffffffff;
+  color: rgb(77, 66, 66);
 }
 
 .link-action {
@@ -134,7 +134,7 @@ ul.links li:not(:last-child) {
 
 .copyright img {
   width: 2rem;
-  opacity: 0.4;
+  opacity: 0.8;
 }
 
 #toast {
