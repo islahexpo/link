@@ -79,7 +79,7 @@ ul.links li:not(:last-child) {
 }
 
 .links {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
 }
 
 .link-card {
@@ -87,8 +87,8 @@ ul.links li:not(:last-child) {
   justify-content: space-between;
   align-items: center;
   background-color: rgb(241, 166, 95);
-  gap: 1rem;
-  padding: 1rem;
+  gap: 0.5rem;
+  padding: 0.5rem;
   border-radius: 40px;
   border: 2px solid #ffffffff;
 }
